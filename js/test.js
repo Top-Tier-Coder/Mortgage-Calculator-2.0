@@ -12,15 +12,15 @@
 
 // let currentBalance = previousBalance - principalPayment;
 
-let month = 0;
-let totalPrincipal = 0;
-let totalInterest = 0;
-let remainingBalance = inAmount;
-const outMonth = monthlyPayment
-remainBalance == inAmount - totalPrincipal;
-interest == remainBalance*inAPR/1200
-principalPayment == outMonth - interest
+// let month = 0;
+// let totalPrincipal = 0;
+// let totalInterest = 0;
+// let remainingBalance = inAmount;
+// const outMonth = monthlyPayment
+// remainBalance == inAmount - totalPrincipal;
+// interest == remainBalance*inAPR/1200
+// principalPayment == outMonth - interest
 
-For (i = 0; I > term; i++){
+// For (i = 0; I > term; i++){
     
-}
+// }
